@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Jonathan, a Computation and Systems Engineering student with interests in programming, mathematics, algorithms, artificial intelligence and web development.
 
 <!--
 **Jonatlop07/Jonatlop07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
