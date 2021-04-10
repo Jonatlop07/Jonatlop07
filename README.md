@@ -1,4 +1,4 @@
-### Hi there 👋, I am Jonathan, here is my portfolio so you can learn more about me: [go](https://jonatlop07.github.io/){:target="_blank"}. ⚡
+### Hi there 👋, I am Jonathan, here is my portfolio so you can learn more about me: https://jonatlop07.github.io/ ⚡
 
 <!--
 **Jonatlop07/Jonatlop07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
