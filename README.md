@@ -1,4 +1,4 @@
-### Hi there 👋, I am Jonathan, here is website: https://jonathan-lopez.studio/ ⚡
+### Hi there 👋, I am Jonathan, and my website is: https://jonathan-lopez.studio/ ⚡
 
 <!--
 **Jonatlop07/Jonatlop07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
